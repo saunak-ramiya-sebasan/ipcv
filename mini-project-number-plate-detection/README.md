@@ -6,11 +6,11 @@
 
 <h2 align="center">Automatic Number Plate Recognition (ANPR)</h2>
 
-<p align="center">
+<div align="center">
 
   OCR • Computer Vision • OpenCV
 
-</p>
+</div>
 
 
 <div align="center">
