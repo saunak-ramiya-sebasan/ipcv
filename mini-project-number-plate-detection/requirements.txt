@@ -1,0 +1,8 @@
+opencv-contrib-python==4.8.1.78
+pytesseract==0.3.10
+numpy==1.24.4
+matplotlib==3.7.5
+datasets==2.19.1
+Pillow==10.3.0
+python-dotenv
+streamlit

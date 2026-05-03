@@ -1,0 +1,9 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" rx="20" fill="#1f2937"></rect>
+  <text x="200" y="50" font-size="22" fill="#a855f7" text-anchor="middle" font-family="Arial">
+    Automatic Number Plate Recognition
+  </text>
+  <text x="200" y="85" font-size="14" fill="#e5e7eb" text-anchor="middle" font-family="Arial">
+    OCR • Computer Vision • OpenCV
+  </text>
+</svg>
