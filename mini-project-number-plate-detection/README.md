@@ -7,11 +7,13 @@
 <h2 align="center">Automatic Number Plate Recognition (ANPR)</h2>
 
 <p align="center">
+
   OCR • Computer Vision • OpenCV
+
 </p>
 
 
-<p align="center">
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8?logo=opencv)](https://opencv.org/)
@@ -20,7 +22,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![uv](https://img.shields.io/badge/uv-astral-purple)](https://docs.astral.sh/uv/)
 
-</p>
+</div>
 
 A production-ready Automatic Number Plate Recognition pipeline built with Python, OpenCV, and Tesseract OCR. Features a modular architecture with contour-based plate detection, robust OCR extraction, and an interactive Streamlit web interface.
 

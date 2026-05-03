@@ -1,11 +1,11 @@
-<p align="center">
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)](https://matplotlib.org/)
 
-</p>
+</div>
 
 # Computer Vision Experiments (OpenCV - Python)
 
