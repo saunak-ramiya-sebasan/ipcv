@@ -1,15 +1,17 @@
 # Image Processing & Computer Vision Lab and Mini Project
 
 <p align="center">
-Student ID: **`230701298`**
+**Student ID:** `230701298`
 </p>
 
 <p align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)](https://matplotlib.org/)
 [![Tesseract](https://img.shields.io/badge/Tesseract-OCR-green)](https://github.com/tesseract-ocr/tesseract)
+
 </p>
 
 This repository contains a collection of fundamental computer vision experiments along with a mini project on Automatic Number Plate Recognition (ANPR). Each component is organized independently with its own documentation.
